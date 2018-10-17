@@ -10,19 +10,24 @@ I wanted to avoid including anything that indicates this is a coding club, even 
 # Monday
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20poster%20monday.png" width="400">
 Just a simple vague but colorful poster. This got a lot of people talking.
+
 # Tuesday
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20poster%20tuesday.png" width="400">
 I printed these 6 to page and cut them out as flyers. I wanted to print 15 pages (90 flyers) but I got to 50 before I ran out of ink. All throughout the day, I threw these all around the school--on people's desks in class, on the floor in the hallways, on benches, on tables, everywhere I could possibly think of.
+
 # Wednesday
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20poster%20wednesday.png" width="400">
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/orpheus%20qr%20code%20flyer.png" width="400">
 Wednesday was a big day. I replaced the original Make posters with one that had a link to a vague site that had the text from the Tuesday flyers and prompted the user to enter their email for more info.
 
 I also created a QR code from Hack Club's mascot, Orpheus, that led to that website, and printed out flyers with it. This time, I actually managed to print 15 pages (90 flyers). This _really_ got people talking.
+
 # Thursday
 I decided not to do anything on Thursday. I wanted to make sure I wasn't introducing too many new things before some people got a chance to catch up on the previous day's things. So, on Thursday, I took a break.
+
 # Friday and Monday
 We have a new intermediate school opening up in our district, and we had Fall Break early this year so that the faculty at the current intermediate school could move all of the things over to the new intermediate school. So, we didn't have school on Friday or Monday to promote.
+
 # Tuesday
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20final%20poster.png" width="400">
 Tuesday was the final day. We put up the posters that finally revealed what this campaign was all about.
