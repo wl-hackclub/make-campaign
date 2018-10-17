@@ -40,7 +40,7 @@ Tuesday was the final day. We put up the posters that finally revealed what this
 
 But that wasn't all we did. We also [redesigned our club's website](https://wl.hackclub.com) and sent out an email to everyone who entered their email on the website during the QR code day. We had about 15 legitimate signups, so 15 people receieved [this beautiful email](https://mailchi.mp/bef906d8a28e/what-it-means-to-be-a-maker).
 
-I considered printing out more small flyers that changed "Maker" to a bunch of different skills/interests (like on the [club's website](https://wl.hackclub.com)), but I decided against it at the last minute because I didn't want to spam the students at my school with flyers. The first two got so many people talking that I feel like a third one wouldn't be as effective, especially since by this point it was clearly promoting a club.
+I considered printing out more small flyers that changed "Maker" to a bunch of different skills/interests (like on the [club's website](https://wl.hackclub.com)), but I decided against it at the last minute because I didn't want to spam the students at my school with flyers. The first two got so many people talking that I felt like a third one wouldn't be as effective, especially since by this point it was revealed that it was promoting Hack CLub.
 
 ---
 
