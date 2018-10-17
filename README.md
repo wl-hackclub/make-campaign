@@ -41,3 +41,18 @@ Tuesday was the final day. We put up the posters that finally revealed what this
 But that wasn't all we did. We also [redesigned our club's website](https://wl.hackclub.com) and sent out an email to everyone who entered their email on the website during the QR code day. We had about 15 legitimate signups, so 15 people receieved [this beautiful email](https://mailchi.mp/bef906d8a28e/what-it-means-to-be-a-maker).
 
 I considered printing out more small flyers that changed "Maker" to a bunch of different skills/interests (like on the [club's website](https://wl.hackclub.com)), but I decided against it at the last minute because I didn't want to spam the students at my school with flyers. The first two got so many people talking that I feel like a third one wouldn't be as effective, especially since by this point it was actually clearly promoting a club.
+
+---
+
+# What worked and what didn't
+I think this poster campaign was a huge success. I constantly heard people talking about it in the hallways as I passed by, and we already gained two new members this week even though the campaign just concluded. What I am sure of is that everyone in the school knows what Hack Club is, because they associate it (and I hope they will continue to associate it) with the colorful posters that I put up for one week. Again, this campaign was not about gaining new members as quickly as possible. It was about creating a new school image for Hack Club that associates it with making fun things rather than programming or malicious hacking. It was also about making sure everyone actually knew about Hack Club, since we only recently officially renamed ourselves to Hack Club. I am 100% sure that we acheived this goal.
+
+That said, some very surprising things were revealed to me during this campaign. I found out that many people didn't want to visit beamaker.glitch.me because (**this is real**) the link had the word "glitch" in it and people were afraid it would glitch their phones. I really didn't expect this and it really shocked me when I heard from someone that "many people saw the posters but everyone was afraid to go to the website". Maybe I should have put the site on repl.it instead, or even registered a custom domain temporarily.
+
+I also found that people were afraid to enter their emails (even their school emails) in the beamaker site because they didn't trust the site and they feared that it would somehow "hack" their email (this was before they knew this campaign was for Hack Club, too, which made it even more surprising). I guess I should have known this in hindsight, but I also don't know if asking for their name or school ID (e.g. mine is stancium) would have worked better. Regardless, we got 15 legitimate signpus, and many of these signups actually came on Wednesday evening, which means people took the QR codes home and scanned it when they found time at home! I think that really shows how engaged the students were with this campaign. Many of these signups were from people I didn't know, too, which means many of the 15 didn't just scan it from my Instagram story.
+
+---
+
+Overall, I'm very happy with how this campaign turned out. I don't think I can ever do something like this again since the magic would be lost if I did it a second time, so I'm very happy with how much I made of this one shot. It took lots of time and printer ink, but I think it was worth it.
+
+Hack Club meets on Wednesdays from 3:30 to 4:30 in Mr. Cullen's room. If you go to the West Lafayette High School, I hope to see you there sometime :)
