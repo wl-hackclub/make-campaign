@@ -58,5 +58,6 @@ One big thing worth noting about the flyers was that it's very likely they didn'
 Overall, I'm very happy with how this campaign turned out. I don't think I can ever do something like this again since the magic would be lost if I did it a second time, so I'm very happy with how much I made of this one shot. It took lots of time and printer ink, but I think it was worth it.
 
 Hack Club meets on Wednesdays from 3:30 to 4:30 in Mr. Cullen's room. If you go to the West Lafayette High School, I hope to see you there sometime :)
+
 ---
 P.S. Thanks so much to my friend [Amogh](https://github.com/qmogh) and some awesome Hack Club leaders from the community for their super helpful feedback on each of the posters and flyers. And special thanks to Amogh for printing some of the posters out when I ran out of ink.
