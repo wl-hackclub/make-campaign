@@ -16,7 +16,7 @@ I also posted it to my Instagram story.
 
 # Tuesday
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20poster%20tuesday.png" width="400">
-I printed these 6 to page and cut them out as flyers. I wanted to print 15 pages (90 flyers) but I got to 50 before I ran out of ink. All throughout the day, I threw these all around the school--on people's desks in class, on the floor in the hallways, on benches, on tables, everywhere I could possibly think of.
+I printed these 6 to page and cut them out as flyers. I wanted to print 90 flyers (15 pages) but I got to 50 before I ran out of ink. All throughout the day, I threw these all around the school--on people's desks in class, on the floor in the hallways, on benches, on tables, everywhere I could possibly think of.
 
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20tuesday%20story.JPG" width="400">
 I also posted this to my story.
