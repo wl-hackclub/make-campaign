@@ -11,9 +11,15 @@ I wanted to avoid including anything that indicates this is a coding club, even 
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20poster%20monday.png" width="400">
 Just a simple vague but colorful poster. This got a lot of people talking.
 
+<img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20monday%20story.JPG" width="300">
+I also posted it to my Instagram story.
+
 # Tuesday
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20poster%20tuesday.png" width="400">
 I printed these 6 to page and cut them out as flyers. I wanted to print 15 pages (90 flyers) but I got to 50 before I ran out of ink. All throughout the day, I threw these all around the school--on people's desks in class, on the floor in the hallways, on benches, on tables, everywhere I could possibly think of.
+
+<img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20tuesday%20story.JPG" width="400">
+I also posted this to my story.
 
 # Wednesday
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20poster%20wednesday.png" width="400">
@@ -23,7 +29,7 @@ Wednesday was a big day. I replaced the original Make posters with one that had 
 I also created a QR code from Hack Club's mascot, Orpheus, that led to that website, and printed out flyers with it. This time, I actually managed to print 15 pages (90 flyers). This _really_ got people talking.
 
 # Thursday
-I decided not to do anything on Thursday. I wanted to make sure I wasn't introducing too many new things before some people got a chance to catch up on the previous day's things. So, on Thursday, I took a break.
+I decided not to do anything on Thursday. I wanted to make sure I wasn't introducing too many new things before some people got a chance to catch up on the previous day's things. So, on Thursday, I took a break and let people keep scanning the QR codes that apparently weren't picked up by the school's cleaning crew on Wednesday night.
 
 # Friday and Monday
 We have a new intermediate school opening up in our district, and we had Fall Break early this year so that the faculty at the current intermediate school could move all of the things over to the new intermediate school. So, we didn't have school on Friday or Monday to promote.
@@ -33,3 +39,5 @@ We have a new intermediate school opening up in our district, and we had Fall Br
 Tuesday was the final day. We put up the posters that finally revealed what this campaign was all about.
 
 But that wasn't all we did. We also [redesigned our club's website](https://wl.hackclub.com) and sent out an email to everyone who entered their email on the website during the QR code day. We had about 15 legitimate signups, so 15 people receieved [this beautiful email](https://mailchi.mp/bef906d8a28e/what-it-means-to-be-a-maker).
+
+I considered printing out more small flyers that changed "Maker" to a bunch of different skills/interests (like on the [club's website](https://wl.hackclub.com)), but I decided against it at the last minute because I didn't want to spam the students at my school with flyers. The first two got so many people talking that I feel like a third one wouldn't be as effective, especially since by this point it was actually clearly promoting a club.
