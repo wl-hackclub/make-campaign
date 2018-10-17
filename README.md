@@ -24,7 +24,7 @@ I also posted this to my story.
 # Wednesday
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20poster%20wednesday.png" width="400">
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/orpheus%20qr%20code%20flyer.png" width="400">
-Wednesday was a big day. I replaced the original Make posters with one that had a link to a vague site that had the text from the Tuesday flyers and prompted the user to enter their email for more info.
+Wednesday was a big day. I replaced the original Make posters with one that had a link to [a vague site](https://beamaker.glitch.me) that had the text from the Tuesday flyers and prompted the user to enter their email for more info.
 
 I also created a QR code from Hack Club's mascot, Orpheus, that led to that website, and printed out flyers with it. This time, I actually managed to print 15 pages (90 flyers). This _really_ got people talking.
 
