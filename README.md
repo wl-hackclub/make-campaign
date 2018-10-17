@@ -32,7 +32,7 @@ I also created a QR code from Hack Club's mascot, Orpheus, that led to that webs
 I decided not to do anything on Thursday. I wanted to make sure I wasn't introducing too many new things before some people got a chance to catch up on the previous day's things. So, on Thursday, I took a break and let people keep scanning the QR codes that apparently weren't picked up by the school's cleaning crew on Wednesday night.
 
 # Friday and Monday
-We have a new intermediate school opening up in our district, and we had Fall Break early this year so that the faculty at the current intermediate school could move all of the things over to the new intermediate school. So, we didn't have school on Friday or Monday to promote.
+We have a new intermediate school opening up in our district, and we had Fall Break early this year so that the faculty at the current intermediate school could move everything over to the new intermediate school. Because of this, we didn't have school on Friday or Monday to promote.
 
 # Tuesday
 <img src="https://raw.githubusercontent.com/wl-hackclub/make-campaign/master/hack%20club%20final%20poster.png" width="400">
